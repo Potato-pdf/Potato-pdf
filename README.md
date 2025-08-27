@@ -14,19 +14,19 @@
 
 <!-- ================= Banner Contactame ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:0066ff&height=120&section=header&text=Cont%C3%A1ctame+%F0%9F%93%9E&fontSize=30&fontColor=FFFFFF&animation=twinkling" alt="Contactame Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00ff99,100:0066ff&height=100&section=header&text=Cont%C3%A1ctame+%F0%9F%93%9E&fontSize=28&fontColor=FFFFFF&animation=fade" alt="Contactame Banner"/>
 </p>
 
 <!-- ================= Redes ================= -->
 <p align="center">
   <a href="https://x.com/shuan_qi?t=-Mo7aaLZli9l-W1bvxlDKA&s=09" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" alt="Twitter" width="40" height="40" style="margin:0 10px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="50" height="50" style="margin:0 15px"/>
   </a>
   <a href="https://www.instagram.com/cesarberrnal_crz?igsh=MTEyb3kzdHVxYmlrNQ==" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" style="margin:0 10px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50" style="margin:0 15px"/>
   </a>
   <a href="https://www.facebook.com/share/1FqvLBk4Ws/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="40" height="40" style="margin:0 10px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50" style="margin:0 15px"/>
   </a>
 </p>
 
