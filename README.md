@@ -8,7 +8,7 @@
 
 ## 🛠️ Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nodejs,express,html,css,tailwind,postgresql,mysql,docker,linux,git" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nextjs,express,html,css,tailwind,postgresql,mysql,docker,linux,git" />
 </p>
 
 ---
@@ -16,7 +16,6 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Potato-pdf&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Potato-pdf&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
