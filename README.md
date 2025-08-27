@@ -1,20 +1,12 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=500&color=00F72A&center=true&vCenter=true&width=700&lines=👋+Hola%2C+soy+César+Daman+Bernal+Cruz;💻+Desarrollador+Multiplataforma;🤖+Apasionado+de+la+IA+y+la+Ciberseguridad;🚀+Siempre+aprendiendo+y+creando" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=4000&color=00FF00&center=true&vCenter=true&width=500&lines=👋+Hola%2C+soy+César+Daman;🚀+Desarrollador+Multiplataforma;☁️+Apasionado+por+IA+y+Cloud;🌱+Aprendiendo+Ciberseguridad" />
 </h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" alt="developer gif"/>
-</p>
+---
 
-<p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=temu-el-gato&theme=carbon&data=followers,repositories,stars,commits" alt="GitHub Widget">
-</p>
-
-
-<!-- Banner estilo consola -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=$+skills+--list;Backend+%7C+Frontend+%7C+Data+Engineering;Linux+%7C+Cloud+%7C+Cybersecurity;AI+%7C+IoT+%7C+Automation" alt="Typing SVG" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,100:33ff00&height=100&section=top" width="100%" />
+</div>
 
 ---
 
