@@ -32,21 +32,6 @@
 
 ---
 
-## 📬 Contáctame
-<p align="center">
-  <a href="https://x.com/shuan_qi?t=-Mo7aaLZli9l-W1bvxlDKA&s=09" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" alt="X/Twitter" width="50" height="50" style="color:#1DA1F2; fill:#1DA1F2; margin:0 15px"/>
-  </a>
-  <a href="https://www.instagram.com/cesarberrnal_crz?igsh=MTEyb3kzdHVxYmlrNQ==" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" width="50" height="50" style="color:#E1306C; fill:#E1306C; margin:0 15px"/>
-  </a>
-  <a href="https://www.facebook.com/share/1FqvLBk4Ws/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" alt="Facebook" width="50" height="50" style="color:#1877F2; fill:#1877F2; margin:0 15px"/>
-  </a>
-</p>
-
----
-
 <h2 align="center">🌐 Conecta conmigo 🌐</h2>
 
 <p align="center">
@@ -57,7 +42,7 @@
     <img src="https://skillicons.dev/icons?i=instagram" width="50" height="50" />
   </a>
   <a href="https://www.facebook.com/share/1FqvLBk4Ws/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" width="50" height="50" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" alt="Facebook" width="50" height="50" style="color:#1877F2; fill:#1877F2; margin:0 15px"/>
   </a>
 </p>
 
