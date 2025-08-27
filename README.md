@@ -16,9 +16,9 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nodejs,nextjs,npm,yarn,astro,github,html,css,tailwind,postgresql,mysql,docker,linux,git" />
-  <img src="https://playwright.dev/img/playwright-logo.svg" width="48" alt="Playwright"/>
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="600" alt="Matrix Rain"/>
 </p>
+
 
 
 ---
