@@ -7,7 +7,7 @@
 
 ## 🛠️ Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nodejs,express,html,css,tailwind,postgresql,mysql,docker,linux,git" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nodejs,nextjs,npm,yarn,shell,github,html,css,tailwind,postgresql,mysql,docker,linux,git" />
 </p>
 
 ---
