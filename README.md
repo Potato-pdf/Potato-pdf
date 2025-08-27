@@ -12,12 +12,24 @@
 </p>
 
 
----
-- [Twitter](https://x.com/shuan_qi?t=-Mo7aaLZli9l-W1bvxlDKA&s=09)  
-- [LinkedIn](https://www.instagram.com/cesarberrnal_crz?igsh=MTEyb3kzdHVxYmlrNQ==)  
-- [GitHub](https://www.facebook.com/share/1FqvLBk4Ws/)  
+<!-- ================= Banner Contactame ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:0066ff&height=120&section=header&text=Cont%C3%A1ctame+%F0%9F%93%9E&fontSize=30&fontColor=FFFFFF&animation=twinkling" alt="Contactame Banner"/>
+</p>
 
----
+<!-- ================= Redes ================= -->
+<p align="center">
+  <a href="https://x.com/shuan_qi?t=-Mo7aaLZli9l-W1bvxlDKA&s=09" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" alt="Twitter" width="40" height="40" style="margin:0 10px"/>
+  </a>
+  <a href="https://www.instagram.com/cesarberrnal_crz?igsh=MTEyb3kzdHVxYmlrNQ==" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" style="margin:0 10px"/>
+  </a>
+  <a href="https://www.facebook.com/share/1FqvLBk4Ws/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="40" height="40" style="margin:0 10px"/>
+  </a>
+</p>
+
 
 
 <p align="center">
