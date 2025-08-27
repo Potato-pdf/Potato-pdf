@@ -45,3 +45,30 @@
   </a>
 </p>
 
+---
+
+<h2 align="center">🌐 Conecta conmigo 🌐</h2>
+
+<p align="center">
+  <a href="https://x.com/shuan_qi?t=-Mo7aaLZli9l-W1bvxlDKA&s=09" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" width="50" height="50" />
+  </a>
+  <a href="https://www.instagram.com/cesarberrnal_crz?igsh=MTEyb3kzdHVxYmlrNQ==" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="50" height="50" />
+  </a>
+  <a href="https://www.facebook.com/share/1FqvLBk4Ws/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" width="50" height="50" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="200px" alt="cat hacker gif"/>
+</p>
+
+---
+
+
