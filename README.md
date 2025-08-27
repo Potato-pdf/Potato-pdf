@@ -15,15 +15,14 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="600" alt="Matrix Rain"/>
-</p>
-
-
+## 🚀 Proyectos destacados
+- [Smart Greenhouse](https://github.com/Potato-pdf/smart-greenhouse) 🌱 IoT + AI
+- [Calculadora Media Listas](https://github.com/Potato-pdf/calculadora-media) 📊 Python
+- [RESTEmpleado](https://github.com/Potato-pdf/rest-empleado) 💻 API REST en Java
 
 ---
 
 <!-- Footer estilo matrix -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="600" alt="matrix rain" />
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif](https://i.makeagif.com/media/7-22-2021/wizqV-.gif" width="600" alt="matrix rain" />
 </p>
