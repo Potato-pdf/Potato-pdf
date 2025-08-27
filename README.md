@@ -13,12 +13,9 @@
 
 
 ---
-
-<!-- Footer estilo matrix -->
-<p align="center">
-  <img src="https://i.makeagif.com/media/7-22-2021/wizqV-.gif" width="600" alt="Footer Animation"/>
-</p>
-
+- [Twitter](https://x.com/shuan_qi?t=-Mo7aaLZli9l-W1bvxlDKA&s=09)  
+- [LinkedIn](https://www.instagram.com/cesarberrnal_crz?igsh=MTEyb3kzdHVxYmlrNQ==)  
+- [GitHub](https://www.facebook.com/share/1FqvLBk4Ws/)  
 
 ---
 
