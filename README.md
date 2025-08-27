@@ -14,10 +14,16 @@
 
 ---
 
-
----
-
 <!-- Footer estilo matrix -->
 <p align="center">
   <img src="https://i.makeagif.com/media/7-22-2021/wizqV-.gif" width="600" alt="Footer Animation"/>
 </p>
+
+
+---
+
+
+<p align="center">
+  <img src="https://i.makeagif.com/media/7-22-2021/wizqV-.gif" width="600" alt="Footer Animation"/>
+</p>
+
