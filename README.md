@@ -1,14 +1,9 @@
+<!-- ================= HEADER MINIMALISTA ================= -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3500&pause=700&color=0AF7FF&center=true&vCenter=true&width=700&lines=⚡+Coding+%26+Cybersecurity+Enthusiast;🤖+Amante+de+la+IA+y+la+Automatización;🎮+Fortnite+ID:+Masterpotato775;🎯+Warzone+ID:+17;💬+Discord:+temu_el_gato" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3500&pause=800&color=000000&center=true&vCenter=true&width=700&lines=人事部のが好き;トラックのに恋した;雰囲気を和らげるためのWXの小さな羽" alt="Typing SVG" />
 </h1>
 
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0AF7FF,100:6A00FF&height=100&section=top" width="100%" />
-</div>
-
----
+<hr/>
 
 ## 🛠️ Skills
 <p align="center">
@@ -16,7 +11,7 @@
   <img src="https://playwright.dev/img/playwright-logo.svg" width="48" height="48" alt="Playwright" style="margin-left: 10px;"/>
 </p>
 
----
+<hr/>
 
 <!-- Footer estilo matrix -->
 <p align="center">
