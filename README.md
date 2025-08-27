@@ -1,11 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=4000&color=00FF00&center=true&vCenter=true&width=500&lines=👋+Hola%2C+soy+César+Daman;🚀+Desarrollador+Multiplataforma;☁️+Apasionado+por+IA+y+Cloud;🌱+Aprendiendo+Ciberseguridad" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3500&pause=700&color=0AF7FF&center=true&vCenter=true&width=700&lines=⚡+Coding+%26+Cybersecurity+Enthusiast;🤖+Amante+de+la+IA+y+la+Automatización;🎮+Fortnite+ID:+Masterpotato775;🎯+Warzone+ID:+17;💬+Discord:+temu_el_gato" alt="Typing SVG" />
 </h1>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,100:33ff00&height=100&section=top" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0AF7FF,100:6A00FF&height=100&section=top" width="100%" />
 </div>
 
 ---
@@ -18,6 +18,7 @@
 
 ---
 
+<!-- Footer estilo matrix -->
 <p align="center">
   <img src="https://i.makeagif.com/media/7-22-2021/wizqV-.gif" width="600" alt="Footer Animation"/>
 </p>
@@ -34,7 +35,7 @@
     <img src="https://skillicons.dev/icons?i=instagram" width="50" height="50" />
   </a>
   <a href="https://www.facebook.com/share/1FqvLBk4Ws/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" alt="Facebook" width="50" height="50" style="color:#1877F2; fill:#1877F2; margin:0 15px"/>
+    <img src="https://skillicons.dev/icons?i=facebook" width="50" height="50" />
   </a>
 </p>
 
@@ -47,5 +48,3 @@
 </p>
 
 ---
-
-
