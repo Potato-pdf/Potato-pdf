@@ -7,7 +7,7 @@
 
 ## 🛠️ Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nodejs,nextjs,npm,yarn,astro,github,html,css,tailwind,postgresql,mysql,docker,linux,git,mongodb,django,aws,arduino,deno,vscode,postman,rust,debian,vim,nginx" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nodejs,nextjs,npm,yarn,astro,github,html,css,tailwind,postgresql,mysql,docker,linux,git,mongodb,django,aws,arduino,deno,vscode,postman,rust,debian,neovim,nginx" />
   <img src="https://playwright.dev/img/playwright-logo.svg" width="48" height="48" alt="Playwright" style="margin-left: 10px;"/>
 </p>
 
