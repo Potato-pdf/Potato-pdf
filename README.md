@@ -7,9 +7,9 @@
 
 ## 🛠️ Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nodejs,nextjs,npm,yarn,astro,github,html,css,tailwind,postgresql,mysql,docker,linux,git,playwright" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nodejs,nextjs,npm,yarn,astro,github,html,css,tailwind,postgresql,mysql,docker,linux,git" />
+  <img src="https://playwright.dev/img/playwright-logo.svg" width="48" height="48" alt="Playwright"/>
 </p>
-
 ---
 
 ## 📊 GitHub Stats
