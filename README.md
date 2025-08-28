@@ -23,11 +23,11 @@
   <table>
     <tr>
       <td align="center" style="border: 3px solid #000; background: #fff; padding: 20px;">
-        <img src="https://skillicons.dev/icons?i=java,python,js,ts,react&theme=light" />
+        <img src="https://skillicons.dev/icons?i=nextjs,astro,js,tailwind,react&theme=light" />
         <br/><b>FRONTEND</b>
       </td>
       <td align="center" style="border: 3px solid #000; background: #000; color: #fff; padding: 20px;">
-        <img src="https://skillicons.dev/icons?i=nodejs,nextjs,npm,yarn,astro&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=nodejs,ts,npm,yarn,python" />
         <br/><b style="color: white;">BACKEND</b>
       </td>
     </tr>
@@ -45,7 +45,7 @@
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,arduino,deno,vscode,postman,rust,debian,neovim" />
+  <img src="https://skillicons.dev/icons?i=html,css,java,arduino,deno,vscode,postman,rust,debian,neovim" />
   <br/>
   <img src="https://playwright.dev/img/playwright-logo.svg" width="48" height="48" alt="Playwright" style="border: 2px solid #000; padding: 5px; background: white;"/>
 </div>
