@@ -1,4 +1,3 @@
-
 ## 🛠️ Tech Stack 🛠️
 <div align="center">
   <table style="border: 3px dashed #8B5CF6; border-radius: 20px; background: linear-gradient(45deg, #F3F4F6, #E5E7EB);">
