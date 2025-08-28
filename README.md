@@ -32,7 +32,6 @@
     <img src="https://i.makeagif.com/media/7-22-2021/wizqV-.gif" width="600" alt="Matrix Animation" style="border-radius:14px; box-shadow:0 0 0 2px #8B5CF6;"/>
     <br/>
     <div style="margin-top:8px; color:#D8B4FE; font-weight:600;">
-      MATRIX MODE ACTIVATED · デジタルドリーム
     </div>
   </div>
 </div>
