@@ -22,7 +22,6 @@
 
 ---
 
-## Let's Connect!
 <div align="center">
   <a href="https://x.com/shuan_qi?t=-Mo7aaLZli9l-W1bvxlDKA&s=09"><img src="https://skillicons.dev/icons?i=twitter" width="50" /></a>
   <a href="https://www.instagram.com/cesarberrnal_crz?igsh=MTEyb3kzdHVxYmlrNQ=="><img src="https://skillicons.dev/icons?i=instagram" width="50" /></a>
@@ -31,24 +30,18 @@
 
 ---
 
-## GitHub Snake Attack 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </div>
 
 ---
 
-##  Hacker Mode
 <div align="center">
   <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="200px" alt="Hacker Cat"/>
-  <br/>
-   Hacker Mode: Always On  
-   Coding Circus Master   
-  Meow-some Developer
 </div>
 
 ---
 
 <div align="center">
-  🎨 Thank you for visiting my digital notebook 🎨
+  Thank you for visiting my digital notebook 
 </div>
