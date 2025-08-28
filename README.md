@@ -1,6 +1,5 @@
-<!-- ================= HEADER ================= -->
 <h1 align="center">
-  <img src="https://via.placeholder.com/700x80?text=💡+JINJI+BU+GA+SUKI+%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF+NI+KOISHITA+WX+NO+HANA" alt="Japanese Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&duration=4000&pause=500&color=7C3AED&center=true&vCenter=true&width=600&lines=%E6%88%91%E6%98%AFMasterpotato775;RH%E3%81%8C%E6%8C%87%E6%8F%AE%E3%81%97%E3%81%BE%E3%81%99;%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF%E3%81%AB%E5%82%BE%E3%81%91%E3%82%8B;WX%E3%81%AB%E6%84%9F%E8%AC%9D" alt="Header Typing Animation"/>
 </h1>
 
 <hr/>
