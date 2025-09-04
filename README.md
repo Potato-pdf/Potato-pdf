@@ -26,8 +26,6 @@
 <!-- ===================== CODING IN ACTION (kept, styled) ===================== -->
 <div align="center" style="padding:18px; border:2px solid #8B5CF6; border-radius:16px; background:linear-gradient(135deg,#0f0a1b 0%, #1b1430 100%);">
   
-  ## <span style="color:#C4B5FD;">Coding in Action</span>
-  
   <div align="center" style="margin-top:10px;">
     <img src="https://i.makeagif.com/media/7-22-2021/wizqV-.gif" width="600" alt="Matrix Animation" style="border-radius:14px; box-shadow:0 0 0 2px #8B5CF6;"/>
     <br/>
