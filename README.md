@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center" style="margin-top:-20px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&duration=4000&pause=500&color=8B5CF6&center=true&vCenter=true&width=700&lines=我是Masterpotato775;RHが指揮します;トラックに傾ける;WXに感謝" alt="Header Typing Animation"/>
+ WXに感謝
 </h1>
 
 <hr/>
