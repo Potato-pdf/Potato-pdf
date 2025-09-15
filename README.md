@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center" style="margin-top:-20px;">
- WXに感謝
+ WAXペン
 </h1>
 
 <hr/>
