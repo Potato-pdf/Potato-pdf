@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center" style="margin-top:-20px;">
- WAXペン
+ WXペン
 </h1>
 
 <hr/>
