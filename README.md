@@ -9,7 +9,7 @@
 
 <hr/>
 
-<!-- ===================== TECH STACK (kept, styled) ===================== -->
+<!-- ===================== TECH STACK ===================== -->
 <div align="center" style="padding:18px; border:2px solid #8B5CF6; border-radius:16px; background:linear-gradient(135deg,#0f0a1b 0%, #1b1430 100%);">
   
   ## <span style="color:#C4B5FD;">Tech Stack</span>
@@ -23,20 +23,29 @@
 
 ---
 
-<!-- ===================== CODING IN ACTION (kept, styled) ===================== -->
+<!-- ===================== LANGUAGES STATS ===================== -->
+<div align="center" style="padding:18px; border:2px solid #8B5CF6; border-radius:16px; background:linear-gradient(135deg,#0f0a1b 0%, #1b1430 100%);">
+  
+  ## <span style="color:#C4B5FD;">Languages in my Repositories</span>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0f0a1b&title_color=8B5CF6&text_color=C4B5FD" alt="Top Langs" style="border-radius:12px; box-shadow:0 0 0 2px #8B5CF6;"/>
+  </a>
+</div>
+
+---
+
+<!-- ===================== CODING IN ACTION ===================== -->
 <div align="center" style="padding:18px; border:2px solid #8B5CF6; border-radius:16px; background:linear-gradient(135deg,#0f0a1b 0%, #1b1430 100%);">
   
   <div align="center" style="margin-top:10px;">
     <img src="https://i.makeagif.com/media/7-22-2021/wizqV-.gif" width="600" alt="Matrix Animation" style="border-radius:14px; box-shadow:0 0 0 2px #8B5CF6;"/>
-    <br/>
-    <div style="margin-top:8px; color:#D8B4FE; font-weight:600;">
-    </div>
   </div>
 </div>
 
 ---
 
-<!-- ===================== SOCIALS (kept, styled) ===================== -->
+<!-- ===================== SOCIALS ===================== -->
 <div align="center" style="padding:18px; border:2px solid #8B5CF6; border-radius:16px; background:linear-gradient(135deg,#0f0a1b 0%, #1b1430 100%);">
   <div align="center">
     <a href="https://x.com/shuan_qi?t=-Mo7aaLZli9l-W1bvxlDKA&s=09" style="margin:0 10px;">
@@ -53,21 +62,21 @@
 
 ---
 
-<!-- ===================== SNAKE (kept, styled) ===================== -->
+<!-- ===================== SNAKE ===================== -->
 <div align="center" style="padding:18px; border:2px solid #8B5CF6; border-radius:16px; background:linear-gradient(135deg,#0f0a1b 0%, #1b1430 100%);">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" style="border-radius:12px; box-shadow:0 0 0 2px #8B5CF6;"/>
 </div>
 
 ---
 
-<!-- ===================== HACKER CAT (kept, styled) ===================== -->
+<!-- ===================== HACKER CAT ===================== -->
 <div align="center" style="padding:18px; border:2px solid #8B5CF6; border-radius:16px; background:linear-gradient(135deg,#0f0a1b 0%, #1b1430 100%);">
   <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="200px" alt="Hacker Cat" style="border-radius:14px; box-shadow:0 0 0 2px #8B5CF6;"/>
 </div>
 
 ---
 
-<!-- ===================== THANK YOU (kept, styled) ===================== -->
+<!-- ===================== THANK YOU ===================== -->
 <div align="center" style="padding:18px; border:2px solid #8B5CF6; border-radius:16px; background:linear-gradient(135deg,#0f0a1b 0%, #1b1430 100%); color:#E9D5FF;">
   Thank you for visiting my digital notebook
 </div>
