@@ -32,9 +32,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Potato-pdf&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0f0a1b&title_color=8B5CF6&text_color=C4B5FD" alt="Top Langs" style="border-radius:12px; box-shadow:0 0 0 2px #8B5CF6;"/>
   </a>
    
-  <a href="https://github-readme-stats.vercel.app/api?username=Potato-pdf&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true">
-    <img src="  https://github-readme-stats.vercel.app/api?username=Potato-pdf&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Top Langs" style="border-radius:12px; box-shadow:0 0 0 2px #8B5CF6;"/>
-  </a>
+  <!-- Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=joel-briones-B-Low&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" height="160"/>
 </div>
 
 ---
