@@ -4,9 +4,13 @@
 </div>
 
 <h1 align="center" style="margin-top:-20px;">
-𒋛𒈠 WXペン 𒃻 𒅗 𒁹 
+𒋛𒈠 WXペン 𒃻 𒅗 𒁹
 </h1>
-
+<div align="center">
+  𒋫 𒄿 𒄑 𒆠 𒊑 𒅁 𒁲 𒉿 𒇻 𒁉 𒅕<br>
+  TS Developer<br>
+  𒋫 𒄿 𒄑 𒆠 𒊑 𒅁 𒁲 𒉿 𒇻 𒁉 𒅕
+</div>
 <hr/>
 
 <!-- ===================== TECH STACK ===================== -->
