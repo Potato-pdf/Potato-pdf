@@ -1,8 +1,7 @@
 <!-- ===================== MONOCHROME WAVE HEADER ===================== -->
-[Standard Galactic Alphabet](https://standardgalactic.github.io/alphabet)**
-<!-- **Home of the [Standard Galactic Alphabet](https://standardgalactic.github.io/sitemap/fonts/demo.html)** -->
-
-
+<div style="padding:18px; border:2px solid #8B5CF6; border-radius:16px; background:linear-gradient(135deg,#0f0a1b 0%, #1b1430 100%);">
+    <img src="https://github.com/standardgalactic/standardgalactic/blob/main/randomizer.gif" alt="Matrix Animation" style="width: 100%; border-radius:14px; box-shadow:0 0 0 2px #8B5CF6; display: block;"/>
+</div>
 
 <h1 align="center" style="margin-top:-20px;">
 𒋛𒈠 WXペン 𒃻 𒅗 𒁹 
