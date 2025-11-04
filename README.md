@@ -6,11 +6,7 @@
 <h1 align="center" style="margin-top:-20px;">
 𒋛𒈠 WXペン 𒃻 𒅗 𒁹
 </h1>
-<div align="center">
-  𒋫 𒄿 𒄑 𒆠 𒊑 𒅁 𒁲 𒉿 𒇻 𒁉 𒅕<br>
-  TS Developer<br>
-  𒋫 𒄿 𒄑 𒆠 𒊑 𒅁 𒁲 𒉿 𒇻 𒁉 𒅕
-</div>
+
 <hr/>
 
 <!-- ===================== TECH STACK ===================== -->
@@ -95,8 +91,10 @@
 ---
 
 <!-- ===================== THANK YOU ===================== -->
-<div align="center" style="padding:18px; border:2px solid #8B5CF6; border-radius:16px; background:linear-gradient(135deg,#0f0a1b 0%, #1b1430 100%); color:#E9D5FF;">
-  Thank you for visiting my digital notebook
+<div align="center">
+  𒋫 𒄿 𒄑 𒆠 𒊑 𒅁 𒁲 𒉿 𒇻 𒁉 𒅕<br>
+  TS Developer<br>
+  𒋫 𒄿 𒄑 𒆠 𒊑 𒅁 𒁲 𒉿 𒇻 𒁉 𒅕
 </div>
 
 <!-- ===================== MONOCHROME WAVE FOOTER ===================== -->
