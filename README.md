@@ -15,7 +15,7 @@
   ## <span style="color:#C4B5FD;">Tech Stack</span>
   
   <div align="center" style="margin-top:10px;">
-    <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nodejs,nextjs,npm,yarn,bun,github,sqlite,devto,nestjs,postgresql,mysql,docker,linux,git,mongodb,django,aws,arduino,deno,vscode,postman,rust,debian,neovim,nginx" />
+    <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nodejs,nextjs,npm,yarn,bun,github,go,devto,nestjs,postgresql,mysql,docker,linux,git,mongodb,svelte,aws,arduino,deno,vscode,postman,rust,debian,neovim,nginx" />
     <br/>
     <img src="https://playwright.dev/img/playwright-logo.svg" width="48" height="48" alt="Playwright" style="margin-top:10px; border-radius:8px; background:#ffffff; padding:6px; box-shadow:0 0 0 2px #8B5CF6 inset;"/>
   </div>
