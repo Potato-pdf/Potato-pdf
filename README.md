@@ -61,8 +61,8 @@
       </td>
     </tr>
 
-    <!-- DEVOPS -->
-    <tr>
+  <!-- DEVOPS -->
+  <tr>
       <td style="padding:10px; text-align:center; font-weight:bold;">DevOps & Cloud</td>
       <td style="padding:10px; text-align:center;">
         <img src="https://skillicons.dev/icons?i=docker,nginx,aws,linux,debian" />
