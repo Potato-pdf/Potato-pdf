@@ -31,7 +31,9 @@
 
   <!-- ===================== AUTOMATION / TESTING ===================== -->
   <h3 style="color:#8B5CF6; margin-top:20px;">Testing & Automation</h3>
-  <img src="https://skillicons.dev/icons?i=playwright" width="50" />
+  <img src="https://playwright.dev/img/playwright-logo.svg" width="48" height="48" alt="Playwright" 
+  style="border-radius:8px; background:#ffffff; padding:6px; box-shadow:0 0 0 2px #8B5CF6 inset;"/>
+
   
   <!-- ===================== TOOLS ===================== -->
   <h3 style="color:#8B5CF6; margin-top:20px;">Tools & Others</h3>
