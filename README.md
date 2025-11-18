@@ -79,8 +79,8 @@
       </td>
     </tr>
 
-    <!-- TOOLS -->
-    <tr>
+  <!-- TOOLS -->
+  <tr>
       <td style="padding:10px; text-align:center; font-weight:bold;">Tools & Others</td>
       <td style="padding:10px; text-align:center;">
         <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,arduino,rust,devto" />
