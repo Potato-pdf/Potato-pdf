@@ -116,20 +116,18 @@
 </div>
 
 ---
-
 <!-- ===================== SOCIALS ===================== -->
-<div align="center" style="padding:18px; border:2px solid #8B5CF6; border-radius:16px; background:linear-gradient(135deg,#0f0a1b 0%, #1b1430 100%);">
-  <div align="center">
-    <a href="https://x.com/shuan_qi?t=-Mo7aaLZli9l-W1bvxlDKA&s=09" style="margin:0 10px;">
-      <img src="https://skillicons.dev/icons?i=twitter" width="50" />
-    </a>
-    <a href="https://www.instagram.com/cesarberrnal_crz?igsh=MTEyb3kzdHVxYmlrNQ==" style="margin:0 10px;">
-      <img src="https://skillicons.dev/icons?i=instagram" width="50" />
-    </a>
-    <a href="https://www.facebook.com/share/1FqvLBk4Ws/" style="margin:0 10px;">
-      <img src="https://skillicons.dev/icons?i=facebook" width="50" />
-    </a>
-  </div>
+<div align="center" style="padding:20px; border:2px solid #8B5CF6; border-radius:16px; background:linear-gradient(135deg,#0f0a1b 0%, #1b1430 100%);">
+  <h2 style="color:#C4B5FD;">🌐 Socials</h2>
+  <a href="https://x.com/shuan_qi?t=-Mo7aaLZli9l-W1bvxlDKA&s=09" style="margin:0 10px;">
+    <img src="https://skillicons.dev/icons?i=twitter" width="50"/>
+  </a>
+  <a href="https://www.instagram.com/cesarberrnal_crz" style="margin:0 10px;">
+    <img src="https://skillicons.dev/icons?i=instagram" width="50"/>
+  </a>
+  <a href="https://www.facebook.com/share/1FqvLBk4Ws/" style="margin:0 10px;">
+    <img src="https://skillicons.dev/icons?i=facebook" width="50"/>
+  </a>
 </div>
 
 ---
