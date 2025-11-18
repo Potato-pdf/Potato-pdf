@@ -37,16 +37,16 @@
       <th style="padding:10px; border-bottom:2px solid #8B5CF6;">Technologies</th>
     </tr>
     
-    <!-- FRONTEND -->
-    <tr>
+  <!-- FRONTEND -->
+  <tr>
       <td style="padding:10px; text-align:center; font-weight:bold;">Frontend</td>
       <td style="padding:10px; text-align:center;">
         <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,svelte,tailwind,html,css" />
       </td>
     </tr>
 
-    <!-- BACKEND -->
-    <tr>
+  <!-- BACKEND -->
+  <tr>
       <td style="padding:10px; text-align:center; font-weight:bold;">Backend & APIs</td>
       <td style="padding:10px; text-align:center;">
         <img src="https://skillicons.dev/icons?i=nodejs,bun,deno,nestjs,java,go,python" />
