@@ -108,19 +108,6 @@
 </div>
 
 ---
-
-<!-- ===================== STREAK STATS ===================== -->
-<div align="center" style="padding:18px; border:2px solid #8B5CF6; border-radius:16px; background:linear-gradient(135deg,#0f0a1b 0%, #1b1430 100%);">
-  
-  ## <span style="color:#C4B5FD;">Contribution Streak</span>
-  
-  <a href="https://streak-stats.demolab.com?user=Potato-pdf&theme=tokyonight&hide_border=false">
-    <img src="https://streak-stats.demolab.com?user=Potato-pdf&theme=tokyonight&hide_border=false" alt="GitHub Streak" style="border-radius:12px; box-shadow:0 0 0 2px #8B5CF6;"/>
-  </a>
-</div>
-
----
-
 <!-- ===================== CODING IN ACTION ===================== -->
 <div align="center" style="padding:18px; border:2px solid #8B5CF6; border-radius:16px; background:linear-gradient(135deg,#0f0a1b 0%, #1b1430 100%);">
   
