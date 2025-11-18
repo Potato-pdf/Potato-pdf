@@ -153,7 +153,7 @@
   𒋫 𒄿 𒄑 𒆠 𒊑 𒅁 𒁲 𒉿 𒇻 𒁉 𒅕
 </div>
 
-<!-- ===================== MONOCHROME WAVE FOOTER ===================== -->
+<!-- ===================== FOOTER ===================== -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=90&section=footer"/>
 </div>
