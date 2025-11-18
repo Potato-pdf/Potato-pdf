@@ -92,16 +92,19 @@
 
 ---
 
-<!-- ===================== LANGUAGES STATS ===================== -->
-<div align="center" style="padding:18px; border:2px solid #8B5CF6; border-radius:16px; background:linear-gradient(135deg,#0f0a1b 0%, #1b1430 100%);">
-  
-  ## <span style="color:#C4B5FD;">Languages in my Repositories</span>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Potato-pdf&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0f0a1b&title_color=8B5CF6&text_color=C4B5FD" alt="Top Langs" style="border-radius:12px; box-shadow:0 0 0 2px #8B5CF6;"/>
-  </a>
-   
-  <!-- Stats -->
+<!-- ===================== STATS ===================== -->
+<div align="center" style="padding:20px; border:2px solid #8B5CF6; border-radius:16px; background:linear-gradient(135deg,#0f0a1b 0%, #1b1430 100%);">
+
+  <h2 style="color:#C4B5FD;">📊 Stats</h2>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Potato-pdf&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0f0a1b&title_color=8B5CF6&text_color=C4B5FD"
+       style="border-radius:12px; box-shadow:0 0 0 2px #8B5CF6;"/>
+
+  <br/><br/>
+
+  <img src="https://streak-stats.demolab.com?user=Potato-pdf&theme=tokyonight&hide_border=false"
+       style="border-radius:12px; box-shadow:0 0 0 2px #8B5CF6;"/>
+
 </div>
 
 ---
