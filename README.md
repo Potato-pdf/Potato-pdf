@@ -24,7 +24,10 @@
   <!-- ===================== DATABASES ===================== -->
   <h3 style="color:#8B5CF6; margin-top:20px;">Databases</h3>
   <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,sqlite" />
-
+  
+  <!-- ===================== DEVOPS ===================== -->
+  <h3 style="color:#8B5CF6; margin-top:20px;">DevOps & Cloud</h3>
+  <img src="https://skillicons.dev/icons?i=docker,nginx,aws,linux,debian" />
 
 
 
