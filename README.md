@@ -32,6 +32,11 @@
   <!-- ===================== AUTOMATION / TESTING ===================== -->
   <h3 style="color:#8B5CF6; margin-top:20px;">Testing & Automation</h3>
   <img src="https://skillicons.dev/icons?i=playwright" width="50" />
+  
+  <!-- ===================== TOOLS ===================== -->
+  <h3 style="color:#8B5CF6; margin-top:20px;">Tools & Others</h3>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,arduino,rust,devto" />
+
 
 
 
