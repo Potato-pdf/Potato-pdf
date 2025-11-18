@@ -29,6 +29,9 @@
   <h3 style="color:#8B5CF6; margin-top:20px;">DevOps & Cloud</h3>
   <img src="https://skillicons.dev/icons?i=docker,nginx,aws,linux,debian" />
 
+  <!-- ===================== AUTOMATION / TESTING ===================== -->
+  <h3 style="color:#8B5CF6; margin-top:20px;">Testing & Automation</h3>
+  <img src="https://skillicons.dev/icons?i=playwright" width="50" />
 
 
 
