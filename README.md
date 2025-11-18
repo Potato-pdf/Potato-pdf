@@ -13,8 +13,9 @@
 <div align="center" style="padding:18px; border:2px solid #8B5CF6; border-radius:16px; background:linear-gradient(135deg,#0f0a1b 0%, #1b1430 100%);">
   
   <h2 style="color:#C4B5FD;">Tech Stack</h2>
-
-
+    <!-- ===================== FRONTEND ===================== -->
+  <h3 style="color:#8B5CF6; margin-top:15px;">Frontend</h3>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,svelte,tailwind,html,css" />
 
 </div>
 
