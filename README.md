@@ -21,7 +21,7 @@
   <h3 style="color:#8B5CF6; margin-top:20px;">Backend & APIs</h3>
   <img src="https://skillicons.dev/icons?i=nodejs,deno,nestjs,java,go,python,express,bun" />
   
-    <!-- ===================== DATABASES ===================== -->
+  <!-- ===================== DATABASES ===================== -->
   <h3 style="color:#8B5CF6; margin-top:20px;">Databases</h3>
   <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,sqlite" />
 
