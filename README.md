@@ -53,8 +53,8 @@
       </td>
     </tr>
 
-    <!-- DATABASES -->
-    <tr>
+  <!-- DATABASES -->
+  <tr>
       <td style="padding:10px; text-align:center; font-weight:bold;">Databases</td>
       <td style="padding:10px; text-align:center;">
         <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,sqlite" />
