@@ -11,6 +11,13 @@
 
 <hr/>
 ---
+<!-- ===================== THANK YOU ===================== -->
+<div align="center">
+  𒋫 𒄿 𒄑 𒆠 𒊑 𒅁 𒁲 𒉿 𒇻 𒁉 𒅕<br>
+  TS Developer<br>
+  𒋫 𒄿 𒄑 𒆠 𒊑 𒅁 𒁲 𒉿 𒇻 𒁉 𒅕
+</div>
+
 
 <!-- ===================== ABOUT ME ===================== -->
 <div align="center" style="padding:20px; border:2px solid #8B5CF6; border-radius:16px; background:linear-gradient(135deg,#120d20 0%, #1c1635 100%);">
