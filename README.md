@@ -69,8 +69,8 @@
       </td>
     </tr>
 
-    <!-- AUTOMATION -->
-    <tr>
+  <!-- AUTOMATION -->
+  <tr>
       <td style="padding:10px; text-align:center; font-weight:bold;">Testing & Automation</td>
       <td style="padding:10px; text-align:center;">
         <img src="https://playwright.dev/img/playwright-logo.svg"
