@@ -10,22 +10,16 @@
 </h1>
 
 <hr/>
----
-<!-- ===================== THANK YOU ===================== -->
-<div align="center">
-  𒋫 𒄿 𒄑 𒆠 𒊑 𒅁 𒁲 𒉿 𒇻 𒁉 𒅕<br>
-  TS Developer<br>
-  𒋫 𒄿 𒄑 𒆠 𒊑 𒅁 𒁲 𒉿 𒇻 𒁉 𒅕
-</div>
-
-
 <!-- ===================== ABOUT ME ===================== -->
 <div align="center" style="padding:20px; border:2px solid #8B5CF6; border-radius:16px; background:linear-gradient(135deg,#120d20 0%, #1c1635 100%);">
 
   <h2 style="color:#C4B5FD;">👾 About Me</h2>
   <p style="color:#C4B5FD; max-width:600px; font-size:16px;">
-    Software Developer especializado en aplicaciones web, backend, automatización e infraestructura ligera.<br>
-    Me encanta diseñar arquitecturas eficientes, construir sistemas escalables y experimentar con tecnología moderna.
+                          𒋫 𒄿 𒄑 𒆠 𒊑 𒅁 𒁲 𒉿 𒇻 𒁉 𒅕<br>
+  Software Developer especializado en aplicaciones web, backend, automatización e infraestructura ligera.<br>
+  Me encanta diseñar arquitecturas eficientes, construir sistemas escalables y experimentar con tecnología moderna.
+  TS Developer<br>
+                          𒋫 𒄿 𒄑 𒆠 𒊑 𒅁 𒁲 𒉿 𒇻 𒁉 𒅕
   </p>
 
 </div>
