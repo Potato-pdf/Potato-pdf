@@ -26,37 +26,67 @@
 ---
 
 <!-- ===================== TECH STACK ===================== -->
-<div align="center" style="padding:18px; border:2px solid #8B5CF6; border-radius:16px; background:linear-gradient(135deg,#0f0a1b 0%, #1b1430 100%);">
-  
-  <h2 style="color:#C4B5FD;">Tech Stack</h2>
-    <!-- ===================== FRONTEND ===================== -->
-  <h3 style="color:#8B5CF6; margin-top:15px;">Frontend</h3>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,svelte,tailwind,html,css" />
-  
-  <!-- ===================== BACKEND ===================== -->
-  <h3 style="color:#8B5CF6; margin-top:20px;">Backend & APIs</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,deno,nestjs,java,go,python,express,bun" />
-  
-  <!-- ===================== DATABASES ===================== -->
-  <h3 style="color:#8B5CF6; margin-top:20px;">Databases</h3>
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,sqlite" />
-  
-  <!-- ===================== DEVOPS ===================== -->
-  <h3 style="color:#8B5CF6; margin-top:20px;">DevOps & Cloud</h3>
-  <img src="https://skillicons.dev/icons?i=docker,nginx,aws,linux,debian" />
+<div align="center" style="padding:20px; border:2px solid #8B5CF6; border-radius:16px; background:linear-gradient(135deg,#0f0a1b 0%, #1b1430 100%);">
 
-  <!-- ===================== AUTOMATION / TESTING ===================== -->
-  <h3 style="color:#8B5CF6; margin-top:20px;">Testing & Automation</h3>
-  <img src="https://playwright.dev/img/playwright-logo.svg" width="48" height="48" alt="Playwright" 
-  style="border-radius:8px; background:#ffffff; padding:6px; box-shadow:0 0 0 2px #8B5CF6 inset;"/>
+  <h2 style="color:#C4B5FD;">🛠 Tech Stack</h2>
 
-  
-  <!-- ===================== TOOLS ===================== -->
-  <h3 style="color:#8B5CF6; margin-top:20px;">Tools & Others</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,arduino,rust,devto" />
+  <!-- TABLE FORMAT -->
+  <table style="width:100%; color:#C4B5FD; border-collapse:collapse;">
+    <tr>
+      <th style="padding:10px; border-bottom:2px solid #8B5CF6;">Category</th>
+      <th style="padding:10px; border-bottom:2px solid #8B5CF6;">Technologies</th>
+    </tr>
+    
+    <!-- FRONTEND -->
+    <tr>
+      <td style="padding:10px; text-align:center; font-weight:bold;">Frontend</td>
+      <td style="padding:10px; text-align:center;">
+        <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,svelte,tailwind,html,css" />
+      </td>
+    </tr>
 
+    <!-- BACKEND -->
+    <tr>
+      <td style="padding:10px; text-align:center; font-weight:bold;">Backend & APIs</td>
+      <td style="padding:10px; text-align:center;">
+        <img src="https://skillicons.dev/icons?i=nodejs,bun,deno,nestjs,java,go,python" />
+      </td>
+    </tr>
 
+    <!-- DATABASES -->
+    <tr>
+      <td style="padding:10px; text-align:center; font-weight:bold;">Databases</td>
+      <td style="padding:10px; text-align:center;">
+        <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,sqlite" />
+      </td>
+    </tr>
 
+    <!-- DEVOPS -->
+    <tr>
+      <td style="padding:10px; text-align:center; font-weight:bold;">DevOps & Cloud</td>
+      <td style="padding:10px; text-align:center;">
+        <img src="https://skillicons.dev/icons?i=docker,nginx,aws,linux,debian" />
+      </td>
+    </tr>
+
+    <!-- AUTOMATION -->
+    <tr>
+      <td style="padding:10px; text-align:center; font-weight:bold;">Testing & Automation</td>
+      <td style="padding:10px; text-align:center;">
+        <img src="https://playwright.dev/img/playwright-logo.svg"
+             width="48" height="48"
+             style="background:white; border-radius:8px; padding:6px; box-shadow:0 0 0 2px #8B5CF6 inset;"/>
+      </td>
+    </tr>
+
+    <!-- TOOLS -->
+    <tr>
+      <td style="padding:10px; text-align:center; font-weight:bold;">Tools & Others</td>
+      <td style="padding:10px; text-align:center;">
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,arduino,rust,devto" />
+      </td>
+    </tr>
+  </table>
 
 </div>
 
