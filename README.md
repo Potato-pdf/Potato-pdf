@@ -17,9 +17,9 @@
 
 <div align="center" style="padding:25px; border:2px solid #8b0000; border-radius:20px; background: linear-gradient(180deg, #000000 0%, #1a0000 100%); color: #ffffff;">
 
-  <h2 style="color:#ff0000; text-transform: uppercase; letter-spacing: 3px;">⛩️ El Rey de las Maldiciones</h2>
+  <h2 style="color:#ff0000; text-transform: uppercase; letter-spacing: 3px;">⛩️</h2>
   <p style="max-width:700px; font-size:18px; line-height: 1.6;">
-    <span style="color: #ff4d4d; font-style: italic;">"Pruébalo... si puedes. Pero un solo error y serás diseccionado."</span><br><br>
+    <span style="color: #ff4d4d; font-style: italic;"></span><br><br>
     Software Developer especializado en aplicaciones web y backend. Diseño arquitecturas capaces de soportar cualquier carga, optimizando sistemas con la precisión de un corte de Sukuna.
     <br><br>
     <b>TS Developer | System Architect | Automation Master</b>
