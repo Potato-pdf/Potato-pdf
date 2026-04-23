@@ -80,7 +80,7 @@
 <br/>
 
 <div align="center" style="padding:25px; border:2px solid #8b0000; border-radius:20px; background: #000;">
-  <h2 style="color:#ff0000; margin-bottom: 20px;">📊 ANALISIS DE ENERGÍA MALDITA</h2>
+  <h2 style="color:#ff0000; margin-bottom: 20px;">📊 </h2>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Potato-pdf&layout=compact&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=8b0000&hide_border=false" 
        style="border-radius:12px; margin-bottom: 15px; box-shadow: 0 0 10px #8b0000;"/>
@@ -102,7 +102,7 @@
 <br/>
 
 <div align="center" style="padding:20px; border:2px solid #ff0000; border-radius:20px; background: linear-gradient(90deg, #000 0%, #2a0000 50%, #000 100%);">
-  <h2 style="color:#ffffff; letter-spacing: 2px;">🌐 CONEXIÓN CON EL MUNDO REAL</h2>
+  <h2 style="color:#ffffff; letter-spacing: 2px;">🌐</h2>
   <div style="margin-top: 15px;">
     <a href="https://x.com/shuan_qi" style="margin:0 15px; text-decoration: none;">
       <img src="https://skillicons.dev/icons?i=twitter" width="55" style="filter: drop-shadow(0 0 10px #ff0000);"/>
