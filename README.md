@@ -19,7 +19,7 @@
 
   <h2 style="color:#ff0000; letter-spacing: 1px;">Expertise & Philosophy</h2>
   <p style="max-width:750px; font-size:17px; line-height: 1.6; color: #e0e0e0;">
-    <span style="color: #ff4d4d; font-weight: bold; font-size: 1.1em;">"La excelencia no es un acto, sino un hábito; la complejidad se domina con estructura."</span><br><br>
+    <span style="color: #ff4d4d; font-weight: bold; font-size: 1.1em;">"Las excusas sobran cuando al disciplina falta"</span><br><br>
     Desarrollador de software especializado en la construcción de ecosistemas web robustos y arquitecturas backend de alta disponibilidad. Enfocado en optimizar procesos mediante automatización inteligente y el despliegue de infraestructuras ligeras y eficientes.
     <br><br>
     <b>Backend Engineering | Cloud Solutions | Performance Optimization</b>
