@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <div style="padding:18px; border:2px solid #8B5CF6; border-radius:16px; background:linear-gradient(135deg,#0f0a1b 0%, #1b1430 100%);">
-  <img src="https://github.com/standardgalactic/standardgalactic/blob/main/randomizer.gif"
+  <img src="https://media1.tenor.com/m/NiiOh24vaJIAAAAd/domain-expansion-sukuna.gif"
        alt="Matrix Animation"
        style="width:100%; border-radius:14px; box-shadow:0 0 0 2px #8B5CF6;"/>
 </div>
